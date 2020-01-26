@@ -815,9 +815,7 @@
 		<key>PlatformFeature</key>
 		<string>0x1A</string>
 		<key>ProductName</key>
-		<string>MacBookPro14,1</string>
-		<key>ProductName-Comment</key>
-		<string>Using Haswell MacBookAir11,1 until Clover has support for Skylake identifiers</string>
+		<string>MacBookPro15,4</string>
 		<key>SerialNumber</key>
 		<string></string>
 		<key>SmUUID</key>
