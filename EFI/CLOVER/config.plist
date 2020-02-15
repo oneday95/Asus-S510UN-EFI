@@ -775,7 +775,7 @@
 			</array>
 		</dict>
 		<key>EmbeddedThemeType</key>
-		<string>Daytime</string>
+		<string>Dark</string>
 		<key>Mouse</key>
 		<dict>
 			<key>Enabled</key>
@@ -980,7 +980,7 @@
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
 		<key>MLB</key>
-		<string>FVF919100J900008C</string>
+		<string>FVFZH07FL40YAB12B</string>
 		<key>ROM</key>
 		<string>UseMacAddr0</string>
 	</dict>
@@ -997,7 +997,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>FVF919100J900008C</string>
+		<string>FVFZH07FL40YAB12B</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -1029,9 +1029,9 @@
 		<key>ProductName-Comment</key>
 		<string>Using Haswell MacBookAir11,1 until Clover has support for Skylake identifiers</string>
 		<key>SerialNumber</key>
-		<string>FVFYP0JKL40Y</string>
+		<string>FVFZH07FL40Y</string>
 		<key>SmUUID</key>
-		<string>D2F582DA-3173-4DDD-8484-1E243D5738F9</string>
+		<string>E7ACD221-23B3-48E4-A7AE-A3635644D2D8</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
