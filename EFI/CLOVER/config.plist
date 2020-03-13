@@ -774,8 +774,6 @@
 				</dict>
 			</array>
 		</dict>
-		<key>EmbeddedThemeType</key>
-		<string>Dark</string>
 		<key>Mouse</key>
 		<dict>
 			<key>Enabled</key>
@@ -793,7 +791,7 @@
 			<true/>
 		</dict>
 		<key>Theme</key>
-		<string>embedded</string>
+		<string>Simple</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
