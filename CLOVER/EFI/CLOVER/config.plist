@@ -348,7 +348,7 @@
 		<key>#Comment-Arguments</key>
 		<string>Only if you have DW1560</string>
 		<key>Arguments</key>
-		<string>abm_firstpolldelay=8000 brcmfx-country=#a darkwake=1 -wegnoegpu igfxonln=1 igfxfcms=1</string>
+		<string>abm_firstpolldelay=8000 brcmfx-country=#a darkwake=10 -wegnoegpu igfxonln=1 igfxfcms=1</string>
 		<key>DefaultVolume</key>
 		<string>Macintosh SSD</string>
 		<key>NeverHibernate</key>
