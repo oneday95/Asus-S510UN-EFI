@@ -496,7 +496,7 @@
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>Theme</key>
-		<string>appledark</string>
+		<string>WWDC</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -518,7 +518,7 @@
 	<key>KernelAndKextPatches</key>
 	<dict>
 		<key>AppleRTC</key>
-		<true/>
+		<false/>
 		<key>DellSMBIOSPatch</key>
 		<false/>
 		<key>ForceKextsToLoad</key>
