@@ -1100,7 +1100,7 @@
 			<key>TakeoffDelay</key>
 			<integer>0</integer>
 			<key>Timeout</key>
-			<integer>1</integer>
+			<integer>3</integer>
 		</dict>
 		<key>Debug</key>
 		<dict>
@@ -1178,7 +1178,7 @@
 				<key>boot-args</key>
 				<string>brcmfx-country=#a bpr_postresetdelay=400 bpr_initialdelay=400 bpr_probedelay=200 darkwake=10 -wegnoegpu igfxonln=1 igfxfcms=1</string>
 				<key>csr-active-config</key>
-				<data>5wMAAA==</data>
+				<data>AAAAAA==</data>
 				<key>nvda_drv</key>
 				<data>MA==</data>
 				<key>prev-lang:kbd</key>
